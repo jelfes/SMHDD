@@ -1,2 +1,4 @@
 config_local.py
 data/
+.ipynb_checkpoints/
+__pycache__/
